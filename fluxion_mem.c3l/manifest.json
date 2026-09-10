@@ -1,0 +1,15 @@
+{
+  "provides": "fluxion_mem",
+  "sources": ["../src/**"],
+  "targets": {
+    "windows-x64": {},
+    "windows-aarch64": {},
+    "linux-x64": {},
+    "linux-aarch64": {},
+    "macos-x64": {},
+    "macos-aarch64": {},
+    "android-aarch64": {},
+    "freebsd-x64": {},
+    "wasm32": {}
+  }
+}
