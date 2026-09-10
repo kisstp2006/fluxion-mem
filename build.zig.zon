@@ -1,0 +1,16 @@
+// SPDX-License-Identifier: BSL-1.0
+
+.{
+    .name = .fluxion_mem,
+    .version = "0.1.0",
+    .minimum_zig_version = "0.16.0",
+    .fingerprint = 0xe4dabdc3124251cd,
+    .dependencies = .{},
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "examples",
+        "README.md",
+    },
+}
